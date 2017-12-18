@@ -135,6 +135,7 @@ button{
     cursor: pointer;
     font-family: 'Roboto', sans-serif;
     font-size: 14px;
+     letter-spacing: 2.5px;
 }
 button:hover,button:focus {
     background: #222;
@@ -143,7 +144,6 @@ button:hover,button:focus {
 button.style1{
     background: #eeeeee;
     border: none;
-    letter-spacing: 2.5px;
     padding: 18px;
 }
 button.style1:hover, button.style1:focus{
