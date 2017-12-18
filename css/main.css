@@ -134,6 +134,7 @@ button{
     padding: 15px 35px;
     cursor: pointer;
     font-family: 'Roboto', sans-serif;
+    font-size: 14px;
 }
 button:hover,button:focus {
     background: #222;
